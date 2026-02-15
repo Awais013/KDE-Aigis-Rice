@@ -7,8 +7,11 @@ A Persona 3 inspired Linux rice focused on the clinical, mechanical aesthetic of
 ---
 
 <img width="1366" height="768" alt="Screenshot_20260215_184515" src="https://github.com/user-attachments/assets/46937863-2b4f-4661-bd36-b57da4e6cd64" />
+
 <img width="1366" height="768" alt="Screenshot_20260215_184637" src="https://github.com/user-attachments/assets/f549400f-7c3f-49c4-855b-4e20519996c4" />
+
 <img width="1366" height="768" alt="Screenshot_20260215_184656" src="https://github.com/user-attachments/assets/99c77ad8-c08a-4899-97c1-e78dd27b0aad" />
+
 <img width="1366" height="768" alt="Screenshot_20260215_191100" src="https://github.com/user-attachments/assets/614b3a45-b115-434a-b505-49b830edca74" />
 
 
