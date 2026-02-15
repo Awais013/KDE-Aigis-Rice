@@ -1,0 +1,59 @@
+# btop Aigis Theme
+# Colors: Sage (#758e85), Brass (#b08d57), Deep Grey (#2d3633)
+
+# Main background, empty for terminal default
+theme[main_bg]="#2d3633"
+
+# Main text color
+theme[main_fg]="#e8e8d5"
+
+# Title color for boxes
+theme[title]="#758e85"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#b08d57"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#4d5c58"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#f8f8f8"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#5a5a5a"
+
+# Color of graph lines
+theme[graph_text]="#758e85"
+
+# Misc colors for special elements
+theme[proc_misc]="#b08d57"
+
+# Cpu box outline color
+theme[cpu_box]="#758e85"
+
+# Memory box outline color
+theme[mem_box]="#758e85"
+
+# Net box outline color
+theme[net_box]="#758e85"
+
+# Processes box outline color
+theme[proc_box]="#758e85"
+
+# Box divider line and small boxes
+theme[div_line]="#4d5c58"
+
+# Temperature graph colors
+theme[temp_start]="#758e85"
+theme[temp_mid]="#b08d57"
+theme[temp_end]="#a65b5b"
+
+# CPU graph colors
+theme[cpu_start]="#758e85"
+theme[cpu_mid]="#94aca2"
+theme[cpu_end]="#b08d57"
+
+# Mem graph colors
+theme[mem_start]="#758e85"
+theme[mem_mid]="#b08d57"
+theme[mem_end]="#a65b5b"
